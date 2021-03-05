@@ -38,4 +38,5 @@ out/
 ### VS Code ###
 .vscode/
 
+#secrets.properties
 secrets.properties
